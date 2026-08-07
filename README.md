@@ -21,9 +21,9 @@
 
 ```
         .-.
-       (o.o)      [ 2600 // PHRACK STYLE // FOR RESEARCH ONLY ]
+       (o.o)      
         |=|
-       __|__       "the medium is agentic, the message is exfil"
+       __|__      
      //.=|=.\\
     // .=|=. \\
     \\ .=|=. //
