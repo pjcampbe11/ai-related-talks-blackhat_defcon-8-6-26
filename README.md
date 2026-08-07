@@ -28,8 +28,6 @@
 weaponizable detail are REDACTED with black bars in the manner of a declassified document.
 Every talk is real; every source is linked at the back.
 
-`- v3.0 // gr33tz spelled the old way, on purpose // 26 entries + 37 posters // 3 volumes -`
-
 </div>
 
 
@@ -54,14 +52,6 @@ This dossier surveys the AI &amp; autonomous-systems research presented at **Bla
 > Anything that would hand a reader operational uplift — exploit code, exact payloads, bypass phrasings, implant crafting — is covered with a **REDACTION** bar, the way a leaked confidential document blacks out the sensitive lines. The surrounding analysis, threat model, and defenses are kept intact so the document is useful for research without being a weapon. Where a CVE is already public, we cite it and still withhold the how-to.
 
 > **Note for readers cloning this repo:** the bars are not covering code that was removed. They are placeholders for operational detail that was never written. Nothing is recoverable from behind them, and that is deliberate.
-
-### gr33tz
-
-```
-  gr33tz to the review boards, the AI Village crew, the poster presenters defending
-  their boards at 5pm, and every blue-teamer who read the abstract before the agent
-  read the GitHub issue.  stay caffeinated.  hydrate.        -=phreak.files=-
-```
 
 ---
 
