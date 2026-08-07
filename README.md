@@ -20,6 +20,7 @@
 `Mandalay Bay Convention Center` · `LVCC West Hall`
 
 ```
+
         .-.
        (o.o)      
         |=|
@@ -34,6 +35,7 @@
        || ||
        || ||
       ==' '==
+
 ```
 
 ![status](https://img.shields.io/badge/status-research__only-33ff66?style=flat-square&labelColor=0a0e0a) ![redacted](https://img.shields.io/badge/payloads-DEFANGED-ff3b3b?style=flat-square&labelColor=0a0e0a) ![entries](https://img.shields.io/badge/entries-26-ffb000?style=flat-square&labelColor=0a0e0a) ![posters](https://img.shields.io/badge/posters-34-31e0e0?style=flat-square&labelColor=0a0e0a) ![volumes](https://img.shields.io/badge/volumes-3-ff4fd8?style=flat-square&labelColor=0a0e0a)
