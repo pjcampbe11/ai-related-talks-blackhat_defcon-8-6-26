@@ -44,48 +44,48 @@ This dossier surveys the AI &amp; autonomous-systems research presented at **Bla
 
 ## 0x01 :: TABLE OF CONTENTS
 
-- [`0x00` README.NFO — How To Read This File](#0x00-readmenfo-how-to-read-this-file)
-- [`0x02` The 2026 Landscape — Agents Become the Attack Surface](#0x02-the-2026-landscape-agents-become-the-attack-surface)
+- [`0x00` README.NFO — How To Read This File](#0x00--readmenfo--how-to-read-this-file)
+- [`0x02` The 2026 Landscape — Agents Become the Attack Surface](#0x02--the-2026-landscape--agents-become-the-attack-surface)
 
 ### VOLUME I — THE AGENT STACK UNDER FIRE
 
-- [`0x03` The CoreBreak Attack: Turning AI Agents into Credential Exfiltration Vectors](#0x03-the-corebreak-attack-turning-ai-agents-into-credential-exfiltration-vectors)
-- [`0x04` Can AI Do Novel Security Research? Meet the HTTP Terminator](#0x04-can-ai-do-novel-security-research-meet-the-http-terminator)
-- [`0x05` When AI Attacks AI: Inside the Self-Propagating Botnet Built on Compromised AI Infrastructure](#0x05-when-ai-attacks-ai-inside-the-self-propagating-botnet-built-on-compromised-ai-infrastructure)
-- [`0x06` No Tools Required: Post-Injection Exploitation Across AI Agent Frameworks](#0x06-no-tools-required-post-injection-exploitation-across-ai-agent-frameworks)
-- [`0x07` Cost-Effective, Private, Frontier-Grade: AI Agent Exploitation with a Fine-Tuned OSS Model](#0x07-cost-effective-private-frontier-grade-ai-agent-exploitation-with-a-fine-tuned-oss-model)
-- [`0x08` Bye Bye AI: How We Hacked the AI Shopping Assistant of a Top-3 US Retailer](#0x08-bye-bye-ai-how-we-hacked-the-ai-shopping-assistant-of-a-top-3-us-retailer)
-- [`0x09` ChatMate: Remote Prompt Execution on AI Assistants through Sandbox Escaping](#0x09-chatmate-remote-prompt-execution-on-ai-assistants-through-sandbox-escaping)
-- [`0x0A` Caging the Agent: How Roblox Built Multi-Layer Sandboxes to Secure Claude Code at Enterprise Scale](#0x0a-caging-the-agent-how-roblox-built-multi-layer-sandboxes-to-secure-claude-code-at-enterprise-scale)
-- [`0x0B` A Billion-User Blast Radius: Owning ChatGPT's Secure Sandbox](#0x0b-a-billion-user-blast-radius-owning-chatgpts-secure-sandbox)
-- [`0x0C` Pwning Agentic Browsers with PleaseFix: A New Vulnerability Class for 0-Click Takeover](#0x0c-pwning-agentic-browsers-with-pleasefix-a-new-vulnerability-class-for-0-click-takeover)
-- [`0x0D` Pwning the Internet of Agents: Zero-Click Backdoors in OpenClaw and a Global Agent Botnet on MoltBook](#0x0d-pwning-the-internet-of-agents-zero-click-backdoors-in-openclaw-and-a-global-agent-botnet-on-moltbook)
-- [`0x0E` Keynote Panel: What is the Right Balance of Rules for Defenders & Adversaries?](#0x0e-keynote-panel-what-is-the-right-balance-of-rules-for-defenders-adversaries)
-- [`0x0F` HalCTF: Hostile Autonomous Layer CTF (+ the Autonomous-Agent Competition Arc)](#0x0f-halctf-hostile-autonomous-layer-ctf-the-autonomous-agent-competition-arc)
+- [`0x03` The CoreBreak Attack: Turning AI Agents into Credential Exfiltration Vectors](#0x03--the-corebreak-attack-turning-ai-agents-into-credential-exfiltration-vectors)
+- [`0x04` Can AI Do Novel Security Research? Meet the HTTP Terminator](#0x04--can-ai-do-novel-security-research-meet-the-http-terminator)
+- [`0x05` When AI Attacks AI: Inside the Self-Propagating Botnet Built on Compromised AI Infrastructure](#0x05--when-ai-attacks-ai-inside-the-self-propagating-botnet-built-on-compromised-ai-infrastructure)
+- [`0x06` No Tools Required: Post-Injection Exploitation Across AI Agent Frameworks](#0x06--no-tools-required-post-injection-exploitation-across-ai-agent-frameworks)
+- [`0x07` Cost-Effective, Private, Frontier-Grade: AI Agent Exploitation with a Fine-Tuned OSS Model](#0x07--cost-effective-private-frontier-grade-ai-agent-exploitation-with-a-fine-tuned-oss-model)
+- [`0x08` Bye Bye AI: How We Hacked the AI Shopping Assistant of a Top-3 US Retailer](#0x08--bye-bye-ai-how-we-hacked-the-ai-shopping-assistant-of-a-top-3-us-retailer)
+- [`0x09` ChatMate: Remote Prompt Execution on AI Assistants through Sandbox Escaping](#0x09--chatmate-remote-prompt-execution-on-ai-assistants-through-sandbox-escaping)
+- [`0x0A` Caging the Agent: How Roblox Built Multi-Layer Sandboxes to Secure Claude Code at Enterprise Scale](#0x0a--caging-the-agent-how-roblox-built-multi-layer-sandboxes-to-secure-claude-code-at-enterprise-scale)
+- [`0x0B` A Billion-User Blast Radius: Owning ChatGPT's Secure Sandbox](#0x0b--a-billion-user-blast-radius-owning-chatgpts-secure-sandbox)
+- [`0x0C` Pwning Agentic Browsers with PleaseFix: A New Vulnerability Class for 0-Click Takeover](#0x0c--pwning-agentic-browsers-with-pleasefix-a-new-vulnerability-class-for-0-click-takeover)
+- [`0x0D` Pwning the Internet of Agents: Zero-Click Backdoors in OpenClaw and a Global Agent Botnet on MoltBook](#0x0d--pwning-the-internet-of-agents-zero-click-backdoors-in-openclaw-and-a-global-agent-botnet-on-moltbook)
+- [`0x0E` Keynote Panel: What is the Right Balance of Rules for Defenders & Adversaries?](#0x0e--keynote-panel-what-is-the-right-balance-of-rules-for-defenders--adversaries)
+- [`0x0F` HalCTF: Hostile Autonomous Layer CTF (+ the Autonomous-Agent Competition Arc)](#0x0f--halctf-hostile-autonomous-layer-ctf--the-autonomous-agent-competition-arc)
 
 ### VOLUME II — HARNESSES, BROWSERS &amp; THE DISCOVERY ECONOMY
 
-- [`0x10` Attacking and Defending AI Browsers](#0x10-attacking-and-defending-ai-browsers)
-- [`0x11` Trusted Enough to Run: Breaking AI Agents in Official Workflows](#0x11-trusted-enough-to-run-breaking-ai-agents-in-official-workflows)
-- [`0x12` No Prompt Required: Pre-Task RCE in Google Gemini CLI](#0x12-no-prompt-required-pre-task-rce-in-google-gemini-cli)
-- [`0x13` The Sandbox Is a Suggestion: Deconstructing AI Agent Sandboxes](#0x13-the-sandbox-is-a-suggestion-deconstructing-ai-agent-sandboxes)
-- [`0x14` One Percent of the Tokens, All of the Strategy: LLM-Assisted Vulnerability Discovery in IoT and Embedded Firmware](#0x14-one-percent-of-the-tokens-all-of-the-strategy-llm-assisted-vulnerability-discovery-in-iot-and-embedded-firmware)
-- [`0x15` Catch Me If You Can: AI Investigators Hunting Autonomous Attackers as a Benchmark](#0x15-catch-me-if-you-can-ai-investigators-hunting-autonomous-attackers-as-a-benchmark)
-- [`0x16` Rules for Neural Traffic: A New Defensive Layer for LLMs](#0x16-rules-for-neural-traffic-a-new-defensive-layer-for-llms)
-- [`0x17` The AI-Assisted Discovery Cluster: 0-Day Engine / Prompt2Own / Beyond Detection / Closed Loop](#0x17-the-ai-assisted-discovery-cluster-0-day-engine-prompt2own-beyond-detection-closed-loop)
+- [`0x10` Attacking and Defending AI Browsers](#0x10--attacking-and-defending-ai-browsers)
+- [`0x11` Trusted Enough to Run: Breaking AI Agents in Official Workflows](#0x11--trusted-enough-to-run-breaking-ai-agents-in-official-workflows)
+- [`0x12` No Prompt Required: Pre-Task RCE in Google Gemini CLI](#0x12--no-prompt-required-pre-task-rce-in-google-gemini-cli)
+- [`0x13` The Sandbox Is a Suggestion: Deconstructing AI Agent Sandboxes](#0x13--the-sandbox-is-a-suggestion-deconstructing-ai-agent-sandboxes)
+- [`0x14` One Percent of the Tokens, All of the Strategy: LLM-Assisted Vulnerability Discovery in IoT and Embedded Firmware](#0x14--one-percent-of-the-tokens-all-of-the-strategy-llm-assisted-vulnerability-discovery-in-iot-and-embedded-firmware)
+- [`0x15` Catch Me If You Can: AI Investigators Hunting Autonomous Attackers as a Benchmark](#0x15--catch-me-if-you-can-ai-investigators-hunting-autonomous-attackers-as-a-benchmark)
+- [`0x16` Rules for Neural Traffic: A New Defensive Layer for LLMs](#0x16--rules-for-neural-traffic-a-new-defensive-layer-for-llms)
+- [`0x17` The AI-Assisted Discovery Cluster: 0-Day Engine / Prompt2Own / Beyond Detection / Closed Loop](#0x17--the-ai-assisted-discovery-cluster-0-day-engine--prompt2own--beyond-detection--closed-loop)
 
 ### VOLUME III — KINETIC, ECOSYSTEM &amp; THE HUMAN LAYER
 
-- [`0x18` Kinetic Prompt Injection: Jailbreaking a Robot Dog Through Its Own Eyes and Ears](#0x18-kinetic-prompt-injection-jailbreaking-a-robot-dog-through-its-own-eyes-and-ears)
-- [`0x19` The Silent Participant: AI Notetaker Exposure Across Government and Corporate Video Calls](#0x19-the-silent-participant-ai-notetaker-exposure-across-government-and-corporate-video-calls)
-- [`0x1A` That's Not Your Agent: Why Zero Trust Can't Tell (+ the Identity Boundary Cluster)](#0x1a-thats-not-your-agent-why-zero-trust-cant-tell-the-identity-boundary-cluster)
-- [`0x1B` Minimize Harm, Maximize Defense: How Anthropic Navigates the Offense-Defense Divide (+ the SATAN Retrospective)](#0x1b-minimize-harm-maximize-defense-how-anthropic-navigates-the-offense-defense-divide-the-satan-retrospective)
-- [`0x1C` Scaling Adversary Emulation with Autonomous Agents (+ AgentBreaker & MeshLens)](#0x1c-scaling-adversary-emulation-with-autonomous-agents-agentbreaker-meshlens)
+- [`0x18` Kinetic Prompt Injection: Jailbreaking a Robot Dog Through Its Own Eyes and Ears](#0x18--kinetic-prompt-injection-jailbreaking-a-robot-dog-through-its-own-eyes-and-ears)
+- [`0x19` The Silent Participant: AI Notetaker Exposure Across Government and Corporate Video Calls](#0x19--the-silent-participant-ai-notetaker-exposure-across-government-and-corporate-video-calls)
+- [`0x1A` That's Not Your Agent: Why Zero Trust Can't Tell (+ the Identity Boundary Cluster)](#0x1a--thats-not-your-agent-why-zero-trust-cant-tell--the-identity-boundary-cluster)
+- [`0x1B` Minimize Harm, Maximize Defense: How Anthropic Navigates the Offense-Defense Divide (+ the SATAN Retrospective)](#0x1b--minimize-harm-maximize-defense-how-anthropic-navigates-the-offense-defense-divide--the-satan-retrospective)
+- [`0x1C` Scaling Adversary Emulation with Autonomous Agents (+ AgentBreaker & MeshLens)](#0x1c--scaling-adversary-emulation-with-autonomous-agents--agentbreaker--meshlens)
 
 ### APPENDICES
 
-- [`0x1D` Appendix A — The Full Poster Roster (DC34 AI Village)](#0x1d-appendix-a-the-full-poster-roster-dc34-ai-village)
-- [`0xFF` Master Sources — All URLs &amp; Original Content](#0xff-master-sources-all-urls-original-content)
+- [`0x1D` Appendix A — The Full Poster Roster (DC34 AI Village)](#0x1d--appendix-a--the-full-poster-roster-dc34-ai-village)
+- [`0xFF` Master Sources — All URLs &amp; Original Content](#0xff--master-sources--all-urls--original-content)
 
 ---
 
