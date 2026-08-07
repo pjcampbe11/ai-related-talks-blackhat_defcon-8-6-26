@@ -2743,18 +2743,3 @@ Every source used, grouped by talk, in the format: **bold title above, link belo
 
 **Tech Times — DEF CON 34 Opens: AI Agents Graduate to Standard Hacking Weapon**  
 <https://www.techtimes.com/articles/323346/20260806/def-con-34-opens-today-ai-agents-graduate-novelty-standard-hacking-weapon.htm>
-
----
-
-<div align="center">
-
-```
-        ___________________________________
-       |  [ end of file ]  keep it ethical |
-       |    0 d a y   i s   f o r e v e r   |
-       |___________________________________|
-```
-
-**EOF** // -=[ compiled defanged for research &amp; education ]=- // stay curious, stay legal
-
-</div>
